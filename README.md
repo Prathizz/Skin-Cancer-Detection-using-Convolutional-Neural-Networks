@@ -16,24 +16,10 @@ https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 ## How to Run the App:
 
 ## Method1
-•Run the app.py file
-
-•Go to http://localhost:5000/ on your browser
-
-•Use the Upload and button to browse and upload the image you want
-
-•Hit submit to get the results.
+• Copy the notebook file to Jupitor notebook along with the data file and run it.
 
 ## Method 2
-•Depploy it to Azure Webapp or Heroku App through github repository
-
-•Go to url generated after deployment on your browser
-
-•Use the Upload and button to browse and upload the image you want
-
-•Hit submit to get the results.
-
-
+• Copy the notebook file to Jupyter Notebook along with the data file and execute/run it.
 
 ## Libraries Used: 
 
